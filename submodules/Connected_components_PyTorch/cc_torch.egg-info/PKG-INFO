@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: cc_torch
+Version: 0.1
+Summary: Connected Components Labeling for PyTorch
+License-File: LICENSE
