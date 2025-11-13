@@ -77,8 +77,6 @@ Single-frame pose estimation:
 Consecutive-frame pose tracking:
 - ``python pose-tracking.py  --obj_name RT509 ``
 
-The SPARK2024 RT509 image sequence used for evaluation can be downloaded from this [link](https://drive.google.com/file/d/1P3rEHJKAlJzL9rm0_OcBG1KFpMBXhcQi/view?usp=drive_link).
-
 
 ## Pose Tracking Visualization
 
@@ -111,6 +109,3 @@ If you find this project useful, please cite:
   year={2025}
 }
 ```
-
-# 3DGS-SPET
-# 3DGS-SPET
